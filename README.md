@@ -1,5 +1,5 @@
 # char-ming
-A single-char-text-editor.
+A single-char-text-editor.  
 This project is purely educational.
 
 # Usage
