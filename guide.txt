@@ -1,0 +1,20 @@
+This is a testing txt file for the single-char-text-editor "char-ming".
+
+Try to change "hello World" to "Hello World".
+---
+hello World
+---
+
+How to:
+-open the editor
+-press "p" and return
+-now you can see the content of this file
+-press "i" and return
+-press "123" and return
+-press "H" and return
+-now you can check your progress with "p" again
+-press "i" and return
+-press "129" and return
+-press "w" and return
+-now you can press "w" and return to tell "char-ming" to save this buffer to the actual file
+-press "q" and return to quit the editor
