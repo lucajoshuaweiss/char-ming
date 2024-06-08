@@ -9,6 +9,6 @@ gcc -o char-ming char-ming.c ./modules/manage.c ./modules/functions.c
 ```
 Use it:
 ```bash
-char-ming guide.txt
+./char-ming guide.txt
 ```
 Tested with gcc 14.1.1 
