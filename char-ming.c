@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 	printf("\nPlease give char-ming a command (confirm with return):\n"
 			"q: quit editor\n"
 			"p: print file contents\n"
-			"i: insert char into specified line\n"
+			"i: insert char\n"
 			"w: write buffer into file\n\n");
 
 	while(command != 'q')
